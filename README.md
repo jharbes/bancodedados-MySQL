@@ -1,3 +1,5 @@
+<img src="icone-my-sql.png" align="right" width="150">
+
 # bancodedados-MySQL
 
 Curso de Banco de Dados com MySQL - CursoemVideo
