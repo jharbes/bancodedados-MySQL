@@ -2,7 +2,7 @@
 
 # bancodedados-MySQL
 
-<h3>Curso de Banco de Dados com MySQL - CursoemVideo</h3>
+<h3>Curso de Banco de Dados com MySQL - CursoemVideo, CFBCursos, LO-Udemy, WebModerno-Udemy</h3>
 <br>
 
 Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre si com registros sobre pessoas, lugares ou coisas. São coleções organizadas de dados que se relacionam de forma a criar algum sentido e dar mais eficiência durante uma pesquisa ou estudo científico.
