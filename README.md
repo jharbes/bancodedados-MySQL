@@ -1,4 +1,4 @@
-<img src="icone-my-sql.png" align="right" width="150">
+<img src="icone-my-sql.png" align="right" width="100">
 
 # bancodedados-MySQL
 
